@@ -1,0 +1,2 @@
+# slack-random
+slackで/random
